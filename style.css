@@ -1,0 +1,272 @@
+h2{.lobster-two-regular 
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+.lobster-two-bold 
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+
+
+.lobster-two-regular-italic 
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+
+
+.lobster-two-bold-italic 
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+
+}
+h1{
+    .abril-fatface-regular 
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+*{
+    background-color: black;
+}
+.box{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    border: 2px,solid,black;
+    padding: 0,6px;
+    justify-content: space-between;
+}
+.menu{
+    font-size: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.b1{
+    display: flex;
+}
+.btn1{
+     padding: 15px 25px;
+    border: 1px,solid,white;
+    border-radius: 40px;
+    background-color: transparent;
+    color: white;
+}
+.btn2{
+    padding: 15px 25px;
+    border: 1px,solid,red;
+    color: white;
+    background-color: red;
+    border-radius: 40px;
+    margin-right: 20px;
+    margin-left: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+    text-align: center;
+}
+.card{
+      text-align: center;
+      transition: 0.5s;
+      width: 270px;
+      height: 50px;
+}
+
+
+.card img{
+      text-align: center;
+      width: 200px;
+      height: 150px;
+      margin-left: 70px;
+}
+
+button{
+      border: 1px,solid,white;
+      color: white;
+      padding: 15px 25px;
+      border-radius: 40px;
+      text-align: center;
+      margin-left: 80px;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+h3{
+    color: red;
+    letter-spacing: 10px;
+}
+p{
+    
+    color: white
+}
+
+.building{
+    margin-left: 20%;
+    display: flex;
+}
+.building1{
+    margin-left: 60%;
+    display: flex;
+}
+.heading2{
+    margin-left: 360px;
+    margin-top: -180px;
+}
+#b1{
+    margin-left: -1%;
+}
+#b2{
+    margin-left: -1%;
+}
+.heading3{
+    margin-left: -25%;
+    text-align: justify;
+    text-align: center;
+    color: white;
+}
+.card1{
+  display: flex;
+  text-align: left;
+}
+.heading1{
+    text-align: left;
+}
+.container1{
+    display: flex;
+    text-align: left;
+    margin-left: -16%;
+}
+.content1{
+    margin-left: -8%;
+    display: flex;
+    
+}
+.content2{
+    margin-left: -100%;
+    font-size: smaller;
+    word-spacing: 2px;
+    text-align: center;
+}
+.content3{
+    margin-top: -19%;
+    margin-left: 35%;
+    display: flex;
+}
+.content4{
+    margin-left: -15%;
+    margin-top: 1%;
+    text-align: center;
+    font-size: smaller;
+}
+.content5{
+    margin-top: -19%;
+    margin-left: 70%;
+    display: flex;
+}
+.content6{
+    margin-left: 58%;
+    margin-top: 1%;
+    text-align: center;
+    font-size: smaller;
+    
+}
+.b3{
+    margin-left: -0%;
+}
+.container2{
+     display: flex;
+    text-align: center;
+    margin-left: 25%;
+}
+.card1{
+  display: flex;
+  text-align: center;
+}
+.content7{
+     margin-top: -1%;
+    margin-left: 34%;
+    display: flex;
+}
+.content8{
+     margin-left: -17%;
+    margin-top: -2%;
+    text-align: center;
+    font-size: smaller;
+}
+.heading4{
+    margin-left: -25%;
+    color: white;
+    text-align: center;
+}
+.building2{
+     margin-left: -30%;
+    display: flex;
+}
+.heading5{
+     margin-left: 5%;
+     margin-top: 3%;
+}
+#b4{
+    margin-left: 4%;
+}
+button:hover{
+      background-color: blue;
+}
+button{
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    transform: scale(1.15);
+    border: 1px,solid,#28a745;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+
+}
+.container3{
+    width: 400px;
+}
+.cotainer4{
+    margin-left: 30%;
+    margin-top: -20%;
+    color: white;
+    text-align: left;
+}
+.container5{
+    color: white;
+    margin-left: 50%;
+    margin-top: -22%;
+    color: white;
+    text-align: left;
+   
+}
+h5{
+    color: white;
+}
+.container5>p{
+
+}
+p{
+    color: gainsboro;
+}
